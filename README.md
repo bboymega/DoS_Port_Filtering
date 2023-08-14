@@ -17,3 +17,4 @@ optional arguments:
   -c CONFIG, --config CONFIG
                         Config File
 ```
+The default value of timeout is 180 seconds and the default configuration file path is `/etc/blacklist.json`
