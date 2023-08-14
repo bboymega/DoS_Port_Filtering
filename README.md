@@ -18,3 +18,8 @@ optional arguments:
                         Config File
 ```
 The default value of timeout is 180 seconds and the default configuration file path is `/etc/blacklist.json`
+
+# Requirements
+
+**iptables** is required to execute firewall rules.
+Python3 packages **pcapy, time, warnings, socket, struct, os, iptc, json, argparse** is required
